@@ -8,4 +8,12 @@
 - **Cakeware**  
 - **Party essentials**  
 
-…and so much more!"  
+…and so much more!  
+
+Here’s a glimpse of **Kohat Foods**:  
+
+![Kohat Foods](https://github.com/abdullahwebwiz/kohat-foods/blob/main/1.PNG)  
+![Kohat Foods](https://github.com/abdullahwebwiz/kohat-foods/blob/main/2.PNG)  
+![Kohat Foods](https://github.com/abdullahwebwiz/kohat-foods/blob/main/3.PNG)  
+![Kohat Foods](https://github.com/abdullahwebwiz/kohat-foods/blob/main/4.PNG)  
+![Kohat Foods](https://github.com/abdullahwebwiz/kohat-foods/blob/main/5.PNG)"
